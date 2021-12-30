@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Videos</title>
+<link rel="stylesheet"  type="text/css" href="CSS/index.css"/>
+</head>
+
+<body>
+<div class="header_menu"><center>
+	<div class="menu"><center>
+    	<ul><center>
+       	    <li><a href="index.php">HOME</a></li>
+            <li><a href="Mp3Player.php">MP3PLAYER</a></li>
+            <li><a href="Songs.php">SONGS</a></li>
+            <li><a href="Videos.php">VIDEOS</a></li>
+            <li><a href="Beats.php">BEATS</a></li>
+            <li><a href="AboutMe.php">ABOUT ME</a></li>   
+            <li><a href="SocialMedia.php">SOCIAL MEDIA</a></li>
+    	</ul>
+    </div>
+</div>
+
+<center><div class="header_under"></div>
+<center><div class="playlist_wrapper">
+
+<center><iframe width="500" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/685130686&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-212807674" title="Tammy Physique" target="_blank" style="color: #cccccc; text-decoration: none;">Tammy Physique</a> · <a href="https://soundcloud.com/user-212807674/her-majesty" title="Her Majesty" target="_blank" style="color: #cccccc; text-decoration: none;">Her Majesty</a></div>
+
+<center><iframe width="500" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/759433150&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-212807674" title="Tammy Physique" target="_blank" style="color: #cccccc; text-decoration: none;">Tammy Physique</a> · <a href="https://soundcloud.com/user-212807674/anubis" title="Anubis" target="_blank" style="color: #cccccc; text-decoration: none;">Anubis</a></div>
+
+<center><iframe width="500" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/688608706&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-212807674" title="Tammy Physique" target="_blank" style="color: #cccccc; text-decoration: none;">Tammy Physique</a> · <a href="https://soundcloud.com/user-212807674/china-usa" title="China USA" target="_blank" style="color: #cccccc; text-decoration: none;">China USA</a></div>
+
+<center><iframe width="500" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/841765744&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tammy-physique-803634779" title="Tammy Physique" target="_blank" style="color: #cccccc; text-decoration: none;">Tammy Physique</a> · <a href="https://soundcloud.com/tammy-physique-803634779/tracks-van-woensdag-middag" title="Just A Number" target="_blank" style="color: #cccccc; text-decoration: none;">Just A Number</a></div>
+
+<center><iframe width="500" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/804435280&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tammy-physique-803634779" title="Tammy Physique" target="_blank" style="color: #cccccc; text-decoration: none;">Tammy Physique</a> · <a href="https://soundcloud.com/tammy-physique-803634779/blue" title="Blue" target="_blank" style="color: #cccccc; text-decoration: none;">Blue</a></div>
+
+<center><iframe width="500" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/685791733&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-212807674" title="Tammy Physique" target="_blank" style="color: #cccccc; text-decoration: none;">Tammy Physique</a> · <a href="https://soundcloud.com/user-212807674/i-am-a-soldier" title="I am a soldier" target="_blank" style="color: #cccccc; text-decoration: none;">I am a soldier</a></div>
+
+<center><iframe width="500" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1029329611&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tammy-physique-803634779" title="Tammy Physique" target="_blank" style="color: #cccccc; text-decoration: none;">Tammy Physique</a> · <a href="https://soundcloud.com/tammy-physique-803634779/thank-you" title="Thank You" target="_blank" style="color: #cccccc; text-decoration: none;">Thank You</a></div>
+
+<center><iframe width="500" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/806804830&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tammy-physique-803634779" title="Tammy Physique" target="_blank" style="color: #cccccc; text-decoration: none;">Tammy Physique</a> · <a href="https://soundcloud.com/tammy-physique-803634779/koningsdag" title="Koningsdag" target="_blank" style="color: #cccccc; text-decoration: none;">Koningsdag</a></div>
+
+<center><iframe width="500" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/778311385&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tammy-physique-803634779" title="Tammy Physique" target="_blank" style="color: #cccccc; text-decoration: none;">Tammy Physique</a> · <a href="https://soundcloud.com/tammy-physique-803634779/a-new-beginning" title="A new beginning" target="_blank" style="color: #cccccc; text-decoration: none;">A new beginning</a></div>
+
+<center><iframe width="500" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/812578189&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tammy-physique-803634779" title="Tammy Physique" target="_blank" style="color: #cccccc; text-decoration: none;">Tammy Physique</a> · <a href="https://soundcloud.com/tammy-physique-803634779/dracos" title="Draco&#x27;s" target="_blank" style="color: #cccccc; text-decoration: none;">Draco&#x27;s</a></div>
+
+<center><iframe width="500" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/734115682&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-212807674" title="Tammy Physique" target="_blank" style="color: #cccccc; text-decoration: none;">Tammy Physique</a> · <a href="https://soundcloud.com/user-212807674/the-park" title="The park" target="_blank" style="color: #cccccc; text-decoration: none;">The park</a></div>
+
+<center><iframe width="500" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/710717971&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-112083048" title="Tammy Physique" target="_blank" style="color: #cccccc; text-decoration: none;">Tammy Physique</a> · <a href="https://soundcloud.com/user-112083048/ammit" title="Ammit" target="_blank" style="color: #cccccc; text-decoration: none;">Ammit</a></div>
+
+<center><iframe width="500" height="60" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/707236270&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-112083048" title="Tammy Physique" target="_blank" style="color: #cccccc; text-decoration: none;">Tammy Physique</a> · <a href="https://soundcloud.com/user-112083048/rise-and-shine-2" title="Rise and shine" target="_blank" style="color: #cccccc; text-decoration: none;">Rise and shine</a></div>
+</div>
+</div>
+
+<div class="footer_wrapper">
+    <div class="footer_menu">
+    	<ul><center>
+        	<li> <a href="https://soundcloud.com/search/sounds?q=tammy%20physique">Songs</a> </li>    
+        </ul>
+        <br /> <br /> <br /><center>
+        <span style="color:#999; font-size:14px; margin-top:10px;">Tammy Physique</span>
+    </div>
+</div>
+		
+</body>
+</html>
